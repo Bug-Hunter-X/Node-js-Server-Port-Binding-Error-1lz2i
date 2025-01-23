@@ -1,0 +1,1 @@
+This repository demonstrates a common Node.js error: failure to bind to a port due to a conflict. The `bug.js` file shows the problematic code that doesn't handle the error, while `bugSolution.js` presents a robust solution.
